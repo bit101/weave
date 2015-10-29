@@ -2,6 +2,8 @@
 
 weave.js is a JavaScript library for drawign a weave pattern on HTML5 Canvas.
 
+![QuickSettings Panel](weave.png)
+
 You create a Weave object with:
 
     var weave = Weave.create(tileSize, bandSize);
