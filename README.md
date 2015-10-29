@@ -1,6 +1,6 @@
 # weave
 
-weave.js is a JavaScript library for drawign a weave pattern on HTML5 Canvas.
+weave.js is a JavaScript library for drawing a weave pattern on HTML5 Canvas.
 
 ![QuickSettings Panel](weave.png)
 
